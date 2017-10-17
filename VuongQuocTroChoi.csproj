@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8266C5C-15BF-4F77-989A-525FAD66AE8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VuongQuocTroChoi</RootNamespace>
+    <AssemblyName>VuongQuocTroChoi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKi.Designer.cs">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGameBauCua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGameBauCua.Designer.cs">
+      <DependentUpon>FormGameBauCua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGameTangBong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGameTangBong.Designer.cs">
+      <DependentUpon>FormGameTangBong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGameTinhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGameTinhToan.Designer.cs">
+      <DependentUpon>FormGameTinhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKhoiDongGameTangBong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKhoiDongGameTangBong.Designer.cs">
+      <DependentUpon>FormKhoiDongGameTangBong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKhoiDongHeThong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKhoiDongHeThong.Designer.cs">
+      <DependentUpon>FormKhoiDongHeThong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameCaro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameCaro.Designer.cs">
+      <DependentUpon>GameCaro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThongKeKetQua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongKeKetQua.Designer.cs">
+      <DependentUpon>ThongKeKetQua.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DangKi.resx">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGameBauCua.resx">
+      <DependentUpon>FormGameBauCua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGameTangBong.resx">
+      <DependentUpon>FormGameTangBong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGameTinhToan.resx">
+      <DependentUpon>FormGameTinhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKhoiDongGameTangBong.resx">
+      <DependentUpon>FormKhoiDongGameTangBong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKhoiDongHeThong.resx">
+      <DependentUpon>FormKhoiDongHeThong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameCaro.resx">
+      <DependentUpon>GameCaro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ThongKeKetQua.resx">
+      <DependentUpon>ThongKeKetQua.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backgrd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tai-mien-phi-hinh-nen-dep-nhat-ve-thien-nhien-hinh-anh-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-may-tinh-dep-nhat-ve-thien-nhien-2-1024x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-phim-angry-bird-dep-nhat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hn1410.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector-bong-da-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon170x170.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naruto-sasuke-chibi %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17136861.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62778809-Tick-and-cross-signs-Green-checkmark-OK-and-red-X-icons-isolated--Stock-Photo %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62778809-Tick-and-cross-signs-Green-checkmark-OK-and-red-X-icons-isolated--Stock-Photo %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62778809-Tick-and-cross-signs-Green-checkmark-OK-and-red-X-icons-isolated--Stock-Photo %283%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62778809-Tick-and-cross-signs-Green-checkmark-OK-and-red-X-icons-isolated--Stock-Photo %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ung-dung-toan-hoc.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toan7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tong-hop-21-hinh-nen-powerpoint-ve-chu-de-toan-hoc-1489912052-13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sir-guul-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0014061.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cung-cao-but-gia-re.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vqg.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bongda_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\256x256bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inscris-in-clasa-pregatitoare-la-4-ani--pentru-performantele-matematice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\256x256bb1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inscris-in-clasa-pregatitoare-la-4-ani--pentru-performantele-matematice1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inscris-in-clasa-pregatitoare-la-4-ani--pentru-performantele-matematice2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200x630bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-khu-vuon-tren-may-mobile-1-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tho.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doremon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pika.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46754894-cute-cartoon-pencil-Stock-Vector-school.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14418387833584.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dora-explorerjpg-3d1163555ccbdd6e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dora_photo1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CpWZda_WgAAY_GQ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdsd.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Why-is-it-Important-to-Evaluate-the-E-learning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25335771-3d-man-standing-and-holding-magnifying-glass-isolated-over-white--Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-powerpoint-39.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-powerpoint-391.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system-users.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

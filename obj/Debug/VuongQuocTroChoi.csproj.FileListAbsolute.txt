@@ -1,0 +1,48 @@
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.exe.config
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.csprojResolveAssemblyReference.cache
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.Form1.resources
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.Properties.Resources.resources
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.csproj.GenerateResource.Cache
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.exe
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.pdb
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.exe
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.pdb
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameBauCua.resources
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameTangBong.resources
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameTinhToan.resources
+D:\Các môn lập trình\Kiểm thử phần mềm\VuongQuocTroChoi\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.GameCaro.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.exe.config
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.exe
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.pdb
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.exe
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.pdb
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.csprojResolveAssemblyReference.cache
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.Form1.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameBauCua.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameTangBong.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameTinhToan.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.GameCaro.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.Properties.Resources.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.csproj.GenerateResource.Cache
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.DangNhap.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.DangKi.resources
+N:\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormMenu.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.exe.config
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.exe
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.pdb
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.exe
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\bin\Debug\VuongQuocTroChoi.pdb
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.csprojResolveAssemblyReference.cache
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.DangKi.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.DangNhap.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.Form1.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameBauCua.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameTangBong.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormGameTinhToan.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormMenu.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.GameCaro.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.Properties.Resources.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.csproj.GenerateResource.Cache
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormKhoiDongHeThong.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormKhoiDongGameTangBong.resources
+N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.ThongKeKetQua.resources
