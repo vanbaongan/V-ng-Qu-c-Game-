@@ -147,7 +147,6 @@ namespace VuongQuocTroChoi
                 FormMenu fr = new FormMenu();
                 fr.Show();
             }
-
         }
     }
 }

@@ -46,3 +46,22 @@ N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.cspr
 N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormKhoiDongHeThong.resources
 N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.FormKhoiDongGameTangBong.resources
 N:\IT\Kiểm thử phần mềm\VuongQuocTroChoi\obj\Debug\VuongQuocTroChoi.ThongKeKetQua.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\bin\Debug\VuongQuocTroChoi.exe.config
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.exe
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.pdb
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\bin\Debug\VuongQuocTroChoi.exe
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\bin\Debug\VuongQuocTroChoi.pdb
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.DangKi.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.DangNhap.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.Form1.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.FormGameBauCua.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.FormGameTangBong.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.FormGameTinhToan.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.FormKhoiDongGameTangBong.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.FormKhoiDongHeThong.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.FormMenu.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.GameCaro.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.Properties.Resources.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.ThongKeKetQua.resources
+C:\Users\HOME\Desktop\V-ng-Qu-c-Game-\obj\Debug\VuongQuocTroChoi.csproj.GenerateResource.Cache
